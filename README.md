@@ -103,12 +103,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Johnie-Musyoki"><img src="https://github-readme-stats.vercel.app/api?username=Johnie-Musyoki&show_icons=true&count_private=true&title_color=00E676&text_color=c9d1d9&icon_color=00E676&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub stats" height="165"/></a>
-  <a href="https://github.com/Johnie-Musyoki"><img src="https://streak-stats.demolab.com?user=Johnie-Musyoki&ring=00E676&fire=00E676&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=true" alt="GitHub streak" height="165"/></a>
+  <img src="./assets/stats-card.svg" alt="GitHub stats" height="200"/>
+  &nbsp;&nbsp;
+  <img src="./assets/top-langs.svg" alt="Top languages" height="200"/>
 </p>
 <p align="center">
-  <a href="https://github.com/Johnie-Musyoki"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnie-Musyoki&langs_count=8&layout=compact&title_color=00E676&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top languages" height="165"/></a>
-  <a href="https://github.com/Johnie-Musyoki"><img src="https://github-profile-trophy.vercel.app/?username=Johnie-Musyoki&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" height="165"/></a>
+  <a href="https://github.com/Johnie-Musyoki"><img src="https://streak-stats.demolab.com?user=Johnie-Musyoki&ring=00E676&fire=00E676&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=8b949e&dates=8b949e&background=0d1117&hide_border=true" alt="GitHub streak" height="165"/></a>
 </p>
 
 ---

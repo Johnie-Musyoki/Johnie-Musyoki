@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="240" viewBox="0 0 460 240">
+<rect width="460" height="240" rx="12" fill="#0d1117" stroke="#21262d"/>
+<text x="24" y="40" font-family="Segoe UI,Helvetica,Arial" font-size="18" font-weight="700" fill="#c9d1d9">John's GitHub</text>
+<text x="436" y="40" text-anchor="end" font-family="Segoe UI" font-size="13" fill="#8b949e">🇰🇪 · Security Engineer</text>
+<text x="28" y="78" font-size="15">📦</text>
+<text x="58" y="78" font-family="Segoe UI" font-size="14" fill="#8b949e">Total Repositories</text>
+<text x="432" y="78" text-anchor="end" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#00E676">84</text>
+<text x="28" y="112" font-size="15">⭐</text>
+<text x="58" y="112" font-family="Segoe UI" font-size="14" fill="#8b949e">Total Stars Earned</text>
+<text x="432" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#00E676">6</text>
+<text x="28" y="146" font-size="15">🍴</text>
+<text x="58" y="146" font-family="Segoe UI" font-size="14" fill="#8b949e">Total Forks</text>
+<text x="432" y="146" text-anchor="end" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#00E676">5</text>
+<text x="28" y="180" font-size="15">👥</text>
+<text x="58" y="180" font-family="Segoe UI" font-size="14" fill="#8b949e">Followers</text>
+<text x="432" y="180" text-anchor="end" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#00E676">24</text>
+<text x="28" y="214" font-size="15">🔥</text>
+<text x="58" y="214" font-family="Segoe UI" font-size="14" fill="#8b949e">Contributions (last year)</text>
+<text x="432" y="214" text-anchor="end" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#00E676">44</text>
+</svg>
