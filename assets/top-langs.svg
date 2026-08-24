@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="270" viewBox="0 0 460 270">
 <rect width="460" height="270" rx="12" fill="#0d1117" stroke="#21262d"/>
 <text x="24" y="36" font-family="Segoe UI,Helvetica,Arial" font-size="16" font-weight="700" fill="#c9d1d9">Most Used Languages</text>
-<rect x="24.0" y="52" width="259.0" height="10" fill="#3572A5" rx="2"/>
-<rect x="282.5" y="52" width="120.9" height="10" fill="#563D7C" rx="2"/>
-<rect x="402.9" y="52" width="17.0" height="10" fill="#3178C6" rx="2"/>
-<rect x="419.5" y="52" width="13.5" height="10" fill="#00ADD8" rx="2"/>
+<rect x="24.0" y="52" width="259.2" height="10" fill="#3572A5" rx="2"/>
+<rect x="282.7" y="52" width="120.8" height="10" fill="#563D7C" rx="2"/>
+<rect x="403.0" y="52" width="17.0" height="10" fill="#3178C6" rx="2"/>
+<rect x="419.5" y="52" width="13.4" height="10" fill="#00ADD8" rx="2"/>
 <rect x="432.4" y="52" width="4.0" height="10" fill="#DA5B0B" rx="2"/>
 <rect x="435.9" y="52" width="0.6" height="10" fill="#00B4AB" rx="2"/>
 <circle cx="29" cy="87" r="5" fill="#3572A5"/>
