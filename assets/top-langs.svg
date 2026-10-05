@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300">
 <rect width="460" height="300" rx="12" fill="#0d1117" stroke="#21262d"/>
 <text x="24" y="36" font-family="Segoe UI,Helvetica,Arial" font-size="16" font-weight="700" fill="#c9d1d9">Most Used Languages</text>
-<rect x="24.0" y="52" width="249.1" height="10" fill="#3572A5" rx="2"/>
-<rect x="272.6" y="52" width="116.1" height="10" fill="#563D7C" rx="2"/>
+<rect x="24.0" y="52" width="249.2" height="10" fill="#3572A5" rx="2"/>
+<rect x="272.7" y="52" width="116.0" height="10" fill="#563D7C" rx="2"/>
 <rect x="388.2" y="52" width="16.6" height="10" fill="#E34C26" rx="2"/>
 <rect x="404.3" y="52" width="16.4" height="10" fill="#3178C6" rx="2"/>
 <rect x="420.1" y="52" width="12.9" height="10" fill="#00ADD8" rx="2"/>
